@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Reasons that moved His Majesty the king of Denmark, &amp;c. as leige [sic] lord of the dukedome of Sleswig, to sequester the Duke of Holstein Gottorps part thereof</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92292</idno><idno type="EEBO-CITATION">42476315</idno>
+  <idno type="VID">151301</idno>
+  <idno type="EEBO-PROQUEST">2240920275</idno>
+  
+            <idno type="STC">Wing R585bA</idno>
+            <idno type="STC">ESTC R43908</idno>
+            <idno type="OCLC">42476315</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2254:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Reasons that moved His Majesty the king of Denmark, &amp;c. as leige [sic] lord of the dukedome of Sleswig, to sequester the Duke of Holstein Gottorps part thereof</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the Year 1676/7.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Christian --  V, --  King of Denmark and Norway, 1645-1699.</term>
+               <term type="personal_name">Gottorp, House of --  Early works to 1800.</term>
+               <term type="topical_term">Scanian War, 1675-1679.</term>
+               <term type="geographic_name">Schleswig-Holstein (Germany) --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151301:1"/>
+            <p>THE REASONS That Moved His Majesty The KING of <hi>DENMARK,</hi> &amp;c.</p>
+            <p>As Leige Lord of the Dukedome of SLESWIG, To Sequester the Duke of Holstein Gottorps Part thereof.</p>
+            <p>Printed in the Year 1676/7.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151301:2"/>
+            <pb n="1" facs="tcp:151301:2"/>
+            <head>The Reasons that moved his Majesty the King of <hi>Denmark,</hi> &amp;c. as Leige Lord of the Dukedome of <hi>Sleswig,</hi> to Sequester the Duke of <hi>Holstein Gottorps</hi> part there<g ref="char:EOLhyphen"/>of.</head>
+            <p>IT is manifestly known to the world, that the Dutchy of <hi>Sleswig</hi> hath been these many Ages a Fee of the Crown of <hi>Denmark,</hi> and that the Duke of <hi>Sles<g ref="char:EOLhyphen"/>wig</hi> (who by vertue of an especial A<g ref="char:EOLhyphen"/>greement made at <hi>Attensee,</hi> 1561. ac<g ref="char:EOLhyphen"/>knowledge the same) as often as there was occasion of renewing the Fee, were bound to receive the Investiture from that Crown accordingly till 1658. after the Peace held at <hi>Rotshild,</hi> the late Duke of <hi>Gottorp</hi> (who during the War between
+<pb facs="tcp:151301:3"/>
+               <pb n="1" facs="tcp:151301:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:151301:4"/>
+               <hi>Denmark</hi> and <hi>Sweden</hi> held continual cor<g ref="char:EOLhyphen"/>respondence with the King of <hi>Sweden,</hi> and supplied him with all things to the utmost of his Power) contrary to the antient Unions and hereditary Com<g ref="char:EOLhyphen"/>pacts, contrary also to the Duty he (in respect of the said Fee of <hi>Sleswig</hi>) ought to the King of <hi>Denmark,</hi> took the advantage of the Oppression the King (his Liege Lord) then lay under, to en<g ref="char:EOLhyphen"/>croach upon him, and so brought it to pass, that the King of <hi>Sweden</hi> (notwith<g ref="char:EOLhyphen"/>standing the fine Provinces of <hi>Sconen, Blaking, Halland, Trunthyme, Bahuse, Born<g ref="char:EOLhyphen"/>holme,</hi> and other considerable advanta<g ref="char:EOLhyphen"/>ges, which now he had gotten by the Treaty of Peace) obliged the King of <hi>Denmark</hi> also to renounce to the said Duke of <hi>Holstein</hi> his Right and Title to the Fee of the said Dutchy of <hi>Sleswig,</hi> and besides to grant him the Bailewick
+<pb n="3" facs="tcp:151301:4"/>of <hi>Swabestad,</hi> and the Abby of <hi>Sleswig,</hi> with such other Conditions as were very disadvantagious to the Crown of <hi>Denmark,</hi> and meerly upon that occasi<g ref="char:EOLhyphen"/>on the King of <hi>Sweden</hi> continued his Forces in <hi>Denmark</hi> and those Parts a long time after the Term agreed on in the said Treaty of Peace, (the Duke of <hi>Holstein</hi> constantly raising one scru<g ref="char:EOLhyphen"/>ple or other to cause delays) whereby the Crown of <hi>Denmark</hi> sustained irre<g ref="char:EOLhyphen"/>parable Dammages and Injuries.</p>
+            <p>Now whereas we might have con<g ref="char:EOLhyphen"/>ceived no other hopes then that the Princely House of <hi>Holstein Gottorp</hi> upon such considerable advantages (which they by the favour of the <hi>Swedish</hi> Arms had wrested from the King of <hi>Denmark</hi> during his extream Calamity as afore<g ref="char:EOLhyphen"/>said) would have entertained no other Intentions or Counsels, then to main<g ref="char:EOLhyphen"/>taine
+<pb n="4" facs="tcp:151301:5"/>with him a sincere and faithful Correspondency for the future; yet immediately after, (<hi>viz.</hi> 1660.) when the Peace between the two Kings was reestablished, the quite contrary ap<g ref="char:EOLhyphen"/>peared; for this present Duke of <hi>Hol<g ref="char:EOLhyphen"/>stein Gottorp</hi> entred into a very strict League with <hi>Sweden,</hi> whereby it was a<g ref="char:EOLhyphen"/>mongst other things Agreed, that whensoever any new quarrel should arise between the two <hi>Northern</hi> Crowns and those Dukedoms, even <hi>Danish</hi> part of them do in time oblige themselves to sit still, so that nothing be com<g ref="char:EOLhyphen"/>manded by them to the disadvantage or prejudice of the King or Crown of <hi>Sweden,</hi> then the <hi>Swedes</hi> shall forbear to trouble them with their Forces or o<g ref="char:EOLhyphen"/>therwise; by which the Duke sought nothing else then to debauch and se<g ref="char:EOLhyphen"/>duce, not only all the Gentry in those
+<pb n="5" facs="tcp:151301:5"/>Dukedomes, (who are tyed by Oath and Allegiance to the King of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> as well as the Duke of <hi>Holstein</hi>) but also his Majesties own proper subjects, from their duty, whereby they are ob<g ref="char:EOLhyphen"/>liged to hazard their lives and for<g ref="char:EOLhyphen"/>tunes for him as their lawful and natu<g ref="char:EOLhyphen"/>ral Prince, to the end that he might compass those sinister Designes, which afterwards by all his actions appeared most clear and palpable.</p>
+            <p>For although his Majesty of bles<g ref="char:EOLhyphen"/>sed Memory (as an undoubted pledg of his good will and affection) mar<g ref="char:EOLhyphen"/>ried the Princess his Daughter to this Duke, thereby to lay a sure founda<g ref="char:EOLhyphen"/>tion of a good understanding between the Royal and Princely house, and also to draw the Duke off from those dangerous intrigues, whereto he was observed <hi>inclinable</hi> contrary to his own
+<pb n="6" facs="tcp:151301:6"/>interest; for those Transactions then passing at <hi>Gluckstad</hi> being designed for no other end, then to renew the old Unions and hereditary Compacts, all former errours and misapprehensions between them, together with all their Circumstances were fully debated and removed; Yet all this was so far from proving effectual, that the Duke still persisted in his pernicious Conduct, and for a beginning (contrary to the Transactions aforesaid) withstood all Proposals, how friendly and reasona<g ref="char:EOLhyphen"/>bly soever, in matters concerning the Limits and other differences about the Bailiwick of <hi>Tundern,</hi> but would rather leave all undetermined to beget fur<g ref="char:EOLhyphen"/>ther Disputes and Errours.</p>
+            <p>In the Provincial Diets held annu<g ref="char:EOLhyphen"/>ally in the Dukedoms of <hi>Holstein</hi> and <hi>Sleswig,</hi> particularly in those held a
+<pb n="7" facs="tcp:151301:6"/>little before this present War, when the emminent danger of the conjun<g ref="char:EOLhyphen"/>cture required Contributions from those States, the Duke constantly thwarted the business with his sinister Counsels, and flattered the States, ei<g ref="char:EOLhyphen"/>ther by a direct opposition or silence, representing the Taxes proposed as intollerable, although his Majesty (as by his Accompts then laid before them did appear) demanded none but such as were absolutely necessary for the maintenance of the Garrisons in those Dukedoms, the moyety whereof, the Duke however very readily accepted, and employed the same, not for the defence of the Country (for which end they were raised) but to his own pri<g ref="char:EOLhyphen"/>vate use. Against which sinister deal<g ref="char:EOLhyphen"/>ing, whatever his Majesty alleadged, or in any other matters concerning
+<pb n="8" facs="tcp:151301:7"/>their joint Government upon occasion of any doubt remonstrated to him, (though in very friendly and mode<g ref="char:EOLhyphen"/>rate terms) yet all was termed intolle<g ref="char:EOLhyphen"/>rable Innovations and Incroachments and things that ought not to be suffer<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> with many other expressions uttered in a menaging way, by which the Duke sufficiently discovered what his Aim was, and what his Majesty was to expect from him upon the Warlike preparations, then making by the <hi>Swedes</hi> in <hi>Germany,</hi> which appeared the more clearly, seeing he (contrary to the assurance given by him in Writing as well as personally) not only receded from the agreement made at <hi>Copenhagen</hi> concerning the Counties of <hi>Oldenburg</hi> and <hi>Delmenhorst,</hi> and confirmed by his Manual Stipulation, but also was con<g ref="char:EOLhyphen"/>tinually Treating in private with the
+<pb n="9" facs="tcp:151301:7"/>
+               <hi>Swedish</hi> Ministers and the City of <hi>Ham<g ref="char:EOLhyphen"/>bourgh,</hi> till he at last went personally to <hi>Stockholm</hi> and renewed his Engagement with that Crown (which had already begun to disclose its hostile designs against that Empire) and at the same time seconded and supported the Ne<g ref="char:EOLhyphen"/>gotiation then on Foot, between the said Crown and the City of <hi>Hambourgh,</hi> which at last ended in a certain Treaty very prejudicial to the Empire; and that which gave a greater suspicion of those things, was, that the Duke (con<g ref="char:EOLhyphen"/>trary to his Duty, upon the account of their joint Government and ancient Union, grounded upon so many here<g ref="char:EOLhyphen"/>ditary Compacts) never gave any no<g ref="char:EOLhyphen"/>tice of the said Treaty to his Majesty, but kept all so private, that he denied to have had any Treaty at all with <hi>Sweden,</hi> or that he knew any thing of
+<pb n="10" facs="tcp:151301:8"/>what had been Negotiated with <hi>Ham<g ref="char:EOLhyphen"/>bourgh.</hi>
+            </p>
+            <p>Now His Majesty at that very time being much pressed by his Allies to assist them against <hi>Sweden,</hi> accor<g ref="char:EOLhyphen"/>ding to a particular League long be<g ref="char:EOLhyphen"/>fore concluded with them upon that occasion, and finding himself as well in Honour as Conscience obliged to make good his said Engagement, judg<g ref="char:EOLhyphen"/>ed it very necessary ere he proceeded, to leave all things sure behind him a<g ref="char:EOLhyphen"/>gainst any Intestine Commotion, and to that end chiefly to take care, that all the differences and disputes that were between him and the Duke, might be intirely composed. In order where<g ref="char:EOLhyphen"/>unto His Majesty the last year, when he and the Duke met at <hi>Rensbourgh,</hi> caused the Duke to be fully acquaint<g ref="char:EOLhyphen"/>ed with the Reasons which in that dan<g ref="char:EOLhyphen"/>gerous
+<pb n="11" facs="tcp:151301:8"/>Conjuncture, justly moved him to suspect him, and to secure himself against his Designs; which wrought so much upon the Duke, that he not only protested it was his Resolution perpetually to maintain a good understanding with his Majesty for the future, but also, as a further assurance thereof, caused the Fortress <hi>Tonningen</hi> immediately to be sur<g ref="char:EOLhyphen"/>rendred to His Majesty. He then likewise by a certain Treaty renewed and confirmed the Antient Unions and hereditary Compacts aforesaid, whereby (amongst other things) he obliged himself within a year and a day to receive of his Majesty the In<g ref="char:EOLhyphen"/>vestiture of the Dukedom of <hi>Sleswig</hi> in the same manner and form as his Princely Ancestors had done; all which the Duke offered with such
+<pb n="12" facs="tcp:151301:9"/>readiness, that long after his Maje<g ref="char:EOLhyphen"/>sties return to <hi>Copenhagen,</hi> he in a Let<g ref="char:EOLhyphen"/>ter, written with his own hand, de<g ref="char:EOLhyphen"/>clared his Joy and Satisfaction, that the former Amity between the Royal and Princely houses was thus happily reestablished. But because the Duke had once before been seduced from his true Interest to Erroneous cour<g ref="char:EOLhyphen"/>ses, by the sinister suggestions of some of his Counsellors, His Majesty justly feared they would again by their pernicious Counsels, put him upon some contrary Resolutions (as indeed it afterward hapened beyond all expectation) and therefore to pre<g ref="char:EOLhyphen"/>vent the same, he thought it very necessary to cause them (being also his undoubted lawful and natural Subjects and Vassals) to be particu<g ref="char:EOLhyphen"/>larly bound to him by a very strict
+<pb n="13" facs="tcp:151301:9"/>Obligation in Writing, to demean themselves upon all occasions, as his Loyal Subjects and Vassals, and ne<g ref="char:EOLhyphen"/>ver to presume to seduce the Duke to any thing that might be preju<g ref="char:EOLhyphen"/>dicial or obstructive to the said re<g ref="char:EOLhyphen"/>newed amity and good correspon<g ref="char:EOLhyphen"/>dence.</p>
+            <p>Notwithstanding all this, his Ma<g ref="char:EOLhyphen"/>jesty soon found, that the Duke had not only made great complaints to his Imperial Majesty of the aforesaid Treaty, concluded at <hi>Rensbourgh,</hi> and desired his assistance, that it might be made void, and all things reduced to the condition, in which they were before, but also did not scruple to tell the world in his Printed papers, that he had meerly been forced to the said Treaty, and whatsoever he had then been acting at <hi>Rensbourg, &amp;c.</hi>
+               <pb n="14" facs="tcp:151301:10"/>though the Treaty it self and the a<g ref="char:EOLhyphen"/>foresaid Letters, written with his own Hand, make the contrary most evi<g ref="char:EOLhyphen"/>dently appear.</p>
+            <p>Now the better to prevent the Dukes destructive Counsels and Re<g ref="char:EOLhyphen"/>flections, and that the end might not prove worse than the beginning, his Majesty caused the Fortress <hi>Tonningen</hi> to be demolished (the rather seeing he had not bound himself to restore it, and that the keeping it would have proved very chargable, and yet would have been a burthen instead of a defence or security to the Coun<g ref="char:EOLhyphen"/>try) And because the said Counsel<g ref="char:EOLhyphen"/>lors, contrary to the said Obligation, had again Entertained dangerous Intrigues and Correspondence a<g ref="char:EOLhyphen"/>gainst his Majesties Honour and In<g ref="char:EOLhyphen"/>terest, (as the Original Letters that
+<pb n="15" facs="tcp:151301:10"/>are in his Majesties hands do testify) and were found to have again sedu<g ref="char:EOLhyphen"/>ced the Duke unto his former insuf<g ref="char:EOLhyphen"/>ferable deportment: His Majesty for the obstruction of their further mischievous practice and contrivan<g ref="char:EOLhyphen"/>ces, ordered them to be committed to sure Custody.</p>
+            <p>And whereas for the intended pro<g ref="char:EOLhyphen"/>secution of the War in <hi>Sconen,</hi> his Ma<g ref="char:EOLhyphen"/>jesty judged his personal Presence there very requisite, but that in the Interim the term agreed on at <hi>Rens<g ref="char:EOLhyphen"/>bourgh</hi> for the Dukes receiving the Investiture for the Dutchy of <hi>Sleswig</hi> would expire, he was pleased to send him notice of his said intention, and minded him of receiving the Inve<g ref="char:EOLhyphen"/>stiture before his Departure, <hi>&amp;c.</hi> to which the Duke returned no positive answer, but under divers pretences
+<pb n="16" facs="tcp:151301:11"/>went about to frustrate his Majesties expectation with tergiversations and delays, till at last upon his Majesties kind admonitions, and after he was already in <hi>Sconen,</hi> and the said Term expired, he in a Letter declared his consent thereunto, and for the Execution of the Act of the Inve<g ref="char:EOLhyphen"/>stiture, offered to dispatch some of his Counsellers to any place that his Majesty should please to appoint, who at length after much delay at<g ref="char:EOLhyphen"/>tended at <hi>Copenhagen</hi> accordingly. But notwithstanding, upon the que<g ref="char:EOLhyphen"/>stion they moved, whether in mat<g ref="char:EOLhyphen"/>ters concerning the Act of Investi<g ref="char:EOLhyphen"/>ture, they were not to follow the Rules prescribed in the Treaty of <hi>Ottensee;</hi> His Majesty declared to them, That although he had good reason not to tie himself so strictly
+<pb n="17" facs="tcp:151301:11"/>to that Treaty in this case, yet that all men might see, he expected from the Duke no more then what from time to time had been usual, and by his Princely Ancestors constantly been done, and what the Duke him<g ref="char:EOLhyphen"/>self in the Treaty at <hi>Rensbourgh</hi> had covenanted to do, His Majesty was willing to acquiesce, and content himself with the observation of the said Treaty of <hi>Attensee, &amp;c.</hi> yet the said Counsellors were so far from being induced to receive the said Investiture, that before His Majesty came back from <hi>Sconen,</hi> (whither the Invasion of the <hi>Swedes</hi> had called him) they under pretence of going to fetch more perfect Instructions from the Duke, went from thence <hi>re infecta,</hi> and never returned.</p>
+            <pb n="18" facs="tcp:151301:12"/>
+            <p> Now, whereas his Majesty not on<g ref="char:EOLhyphen"/>ly by such continual delays, but also by some Original Letters and other Papers (intercepted in the late Acti<g ref="char:EOLhyphen"/>on with the Enemy in <hi>Sconen</hi>) suffici<g ref="char:EOLhyphen"/>ently perceived, That it was not the Dukes intention ever to procede to the effectual receiving of the said Investiture, according to his Duty, but only that he went about to gain time, utterly to make void the <hi>Rens<g ref="char:EOLhyphen"/>burgh</hi> Agreement, and also by his Plots and Devises (which, through the singular Providence of God, were happily discovered by the seiz<g ref="char:EOLhyphen"/>ing of the said Letters and Papers) to draw all sorts of Mischiefs and Dangers upon his Majesty, and to that end held continual correspon<g ref="char:EOLhyphen"/>dence at <hi>Hambourg</hi> with the <hi>Swedish</hi> Ministers, and other disaffected per<g ref="char:EOLhyphen"/>sons,
+<pb n="19" facs="tcp:151301:12"/>contriving and carrying on se<g ref="char:EOLhyphen"/>cret Counsels and Designs; His Ma<g ref="char:EOLhyphen"/>jesty in fine, found himself inevitably obliged to think on other remedies for the preservation of his Royal Prerogatives, and to cause the Dukes part of the Dutchy of <hi>Sleswig</hi> to be Sequestred, of which he has already given him notice, and to the end, that he and the whole world may understand how unwillingly his Ma<g ref="char:EOLhyphen"/>jesty proceeds to such Resolutions, and how joyful he would be to see the Duke return to better thoughts, hath set him a new Term for his effe<g ref="char:EOLhyphen"/>ctual receiving of the said Investi<g ref="char:EOLhyphen"/>ture, though with this express warn<g ref="char:EOLhyphen"/>ing, that if he shall again slight this kind offer, his Majesty then ought not to be blamed, if the Feudatory Laws shall lead him to deprive th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said Duke of that Fee it self.</p>
+            <pb n="20" facs="tcp:151301:13"/>
+            <p> By the premises it clearly appears that his Majesty in this affair has con<g ref="char:EOLhyphen"/>stantly used the greatest moderati<g ref="char:EOLhyphen"/>on immaginable, and has forborn to proceed to the said Sequestration and further extremities, till he found himself without all hopes of redu<g ref="char:EOLhyphen"/>cing the Duke by amicable means to what he had Voluntarily obliged himself by Treaties, and what he was invited to by his own interest, as aforesaid.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
